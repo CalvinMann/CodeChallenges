@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge", "CodeChallenge\CodeChallenge.csproj", "{EB4051E9-E15B-4BCD-805A-CDB7F876452C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaprekarsConstant", "CodeChallenge\KaprekarsConstant.csproj", "{EB4051E9-E15B-4BCD-805A-CDB7F876452C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatinTranslation", "PigLatinTranslation\PigLatinTranslation.csproj", "{1B66B71F-DEF9-48DF-85B3-F5DFC50BD8DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EB4051E9-E15B-4BCD-805A-CDB7F876452C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB4051E9-E15B-4BCD-805A-CDB7F876452C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB4051E9-E15B-4BCD-805A-CDB7F876452C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B66B71F-DEF9-48DF-85B3-F5DFC50BD8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B66B71F-DEF9-48DF-85B3-F5DFC50BD8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B66B71F-DEF9-48DF-85B3-F5DFC50BD8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B66B71F-DEF9-48DF-85B3-F5DFC50BD8DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
